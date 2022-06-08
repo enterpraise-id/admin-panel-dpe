@@ -1,0 +1,1 @@
+<h1 class="text-5xl text-white hover:(text-blue-500 cursor-pointer)">Home</h1>
